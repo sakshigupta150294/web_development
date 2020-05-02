@@ -1,29 +1,36 @@
-Project Title
-Petition Filing 
-Designed a petition filing website using Angular8, MongoDB, Express, and Node.js
+<style>
+.list{
+  list-style-type:none
+ }
+</style>
+<h3>Project Title<h3>
+<h1>Petition Filing</h1> 
+<b>Designed a petition filing website using Angular8, MongoDB, Express, and Node.js</b><br/>
 
-Getting Started https://github.com/sakshigupta150294/web_development/tree/master/Petition_Filing/angular_base
-
-git clone
-npm install(CLI)
-mongoDB
-node server.js(CLI)
-browse to localhost:4200
-Prerequisites
+<i>Getting Started</i> https://github.com/sakshigupta150294/web_development/tree/master/Petition_Filing/angular_base
+<ul>
+<li>git clone</li>
+<li>npm install(CLI)</li>
+<li>mongoDB</li>
+<li>node server.js(CLI)</li>
+<li>browse to localhost:4200</li>
+</ul>
+<b>Prerequisites</b>
 
 Install node and mongoDB
-Built With
-Responsive UI design of website using Angular8, Javascript, Bootstrap4, HTML5 ,CSS3 and Media Queries
-Used passport.js to support authentication using local strategy
-Incorporated PayPal REST API for payment, Dialogflow API for chatbot, consolidated with backend in Node.js, Express.js, MongoDB. 
-Stored data such as user credentials, petitions using MongoDB
-
+<b>Built With</b>
+<ul class="list">
+<li >Responsive UI design of website using Angular8, Javascript, Bootstrap4, HTML5 ,CSS3 and Media Queries</li>
+<li>Used passport.js to support authentication using local strategy</li>
+<li style="list-style-type:none" id="functionalities">Incorporated PayPal REST API for payment, Dialogflow API for chatbot, consolidated with backend in Node.js, Express.js, MongoDB.</li> 
+<li style="list-style-type:none" id="functionalities">Stored data such as user credentials, petitions using MongoDB</li>
+</ul>
 Versioning
 We used git as version control software.
 Repository link: 
 
 Authors
-Sakshi Gupta: https://github.com/saiswagath
+Sakshi Gupta: https://github.com/
 Arunbalaji Srinivasan: https://github.com/Arunbalaji-Srinivasan
 Ashwin: https://github.com/ashwinven
 Antara Rangnekar 
