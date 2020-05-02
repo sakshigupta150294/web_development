@@ -30,7 +30,7 @@ Repository link: https://github.com/sakshigupta150294/web_development
 
 <b>Authors</b>
 <ul>
-<li>Sakshi Gupta: https://github.com/</li>
+<li>Sakshi Gupta: https://github.com/sakshigupta150294</li>
 <li>Arunbalaji Srinivasan: https://github.com/Arunbalaji-Srinivasan</li>
 <li>Ashwin: https://github.com/ashwinven</li>
 <li>Antara Rangnekar</li> 
