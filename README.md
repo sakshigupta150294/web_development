@@ -15,9 +15,9 @@
 
 Install node and mongoDB
 <b>Built With</b>
-<ul style="list-style-type:none">
-<li >Responsive UI design of website using Angular8, Javascript, Bootstrap4, HTML5 ,CSS3 and Media Queries</li>
-<li>Used passport.js to support authentication using local strategy</li>
+<ul >
+<li style="list-style-type:none">Responsive UI design of website using Angular8, Javascript, Bootstrap4, HTML5 ,CSS3 and Media Queries</li>
+<li style="list-style-type:none">Used passport.js to support authentication using local strategy</li>
 <li style="list-style-type:none" id="functionalities">Incorporated PayPal REST API for payment, Dialogflow API for chatbot, consolidated with backend in Node.js, Express.js, MongoDB.</li> 
 <li style="list-style-type:none" id="functionalities">Stored data such as user credentials, petitions using MongoDB</li>
 </ul>
