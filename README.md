@@ -1,8 +1,4 @@
-<style>
-.list{
-  list-style-type:none
- }
-</style>
+
 <h3>Project Title<h3>
 <h1>Petition Filing</h1> 
 <b>Designed a petition filing website using Angular8, MongoDB, Express, and Node.js</b><br/>
@@ -19,7 +15,7 @@
 
 Install node and mongoDB
 <b>Built With</b>
-<ul class="list">
+<ul style="list-style-type:none">
 <li >Responsive UI design of website using Angular8, Javascript, Bootstrap4, HTML5 ,CSS3 and Media Queries</li>
 <li>Used passport.js to support authentication using local strategy</li>
 <li style="list-style-type:none" id="functionalities">Incorporated PayPal REST API for payment, Dialogflow API for chatbot, consolidated with backend in Node.js, Express.js, MongoDB.</li> 
